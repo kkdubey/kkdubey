@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Komal Dube
 
-- 💡 I have nine years of experience as a full-stack software engineer and have built numerous web applications.
+💡 I have nine years of experience as a full-stack software engineer and have built numerous web applications.
 <!--
 **kkdubey/kkdubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
