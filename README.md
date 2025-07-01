@@ -41,7 +41,7 @@ If you’re working on something impactful, drop me a message — let’s build 
 ## 📫 How to Reach Me
 
 📧 Email: [kkdubey1989@gmail.com](mailto:kkdubey1989@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/komaldube](https://linkedin.com/in/komaldube)
+🔗 LinkedIn: [[linkedin.com/in/komal-dubey](https://www.linkedin.com/in/komal-dubey/)]
 
 ---
 
