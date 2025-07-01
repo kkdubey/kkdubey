@@ -1,40 +1,75 @@
-# Hi there! 👋 I'm Komal Dube
+# 👋 Hi, I'm Komal Dube
 
-I'm a passionate full-stack software engineer with 10 years of experience in designing and developing web applications. I have a strong background in .NET technologies, Azure cloud services, and front-end frameworks like Angular and React.js. I enjoy creating high-quality, scalable, and user-friendly solutions that solve real-world problems.
+I’m a seasoned Full-Stack Developer with 11+ years of experience building scalable, cloud-native applications and intelligent systems. My expertise lies in bridging business goals with robust, maintainable code — with a passion for delivering clean, performant solutions across the stack.
 
-## 👯 I'm looking to collaborate on:
-I'm passionate about collaborating on innovative and impactful projects. If you have an exciting opportunity or are working on something cool, I would love to contribute my skills and expertise. Here are a few areas I'm interested in collaborating on:
+---
 
-- Open-source projects
-- Web application development
-- Cloud-based solutions
-- Full-stack development
-- Front-end frameworks like Angular or React.js
-- Backend technologies like .NET Core or Node.js
+## 💼 What I Do
 
-If you have any project ideas or would like to explore potential collaborations, feel free to reach out to me. Let's create something awesome together!
+🔹 **AI & Agentic Systems**  
+Designing intelligent solutions using agent orchestration frameworks like **Semantic Kernel** and integrating with **ChatGPT**, **Azure OpenAI**, and **AI Foundry APIs** to automate workflows and enhance user experiences.
 
-## 📫 How to reach me:
-- Email: kkdubey1989@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/komal-dubey/)
+🔹 **Azure Cloud Solutions**  
+Deep experience in building scalable, secure, and resilient systems using **Azure App Services**, **Functions**, **Storage**, **Service Bus**, **Event Hub**, and **Key Vault**.
 
-## 💼 Professional Experience:
-- Advanced Software Engineer at Honeywell (September 2020 - Present)
-- Senior Associate Technology at Publicis Sapient (April 2017 - August 2020)
-- Senior Software Engineer at Tavant Technologies (March 2015 - March 2017)
-- Software Developer at Opetamix (August 2013 - February 2015)
+🔹 **Full-Stack Development**  
+Strong proficiency across backend and frontend:  
+• **Backend**: .NET Core, C#, Web API, SQL Server, MongoDB  
+• **Frontend**: Angular, React.js, TypeScript, JavaScript, HTML/CSS  
 
-## 💻 Technical Skills:
-- .NET Technologies: .NET Core, .NET Framework, WCF Services, Web API, Entity Framework, ASP.NET MVC
-- Languages & Scripting: C#.NET, HTML, SQL, TypeScript, JavaScript, Bootstrap, Angular, React.js, CSS
-- Operating Systems: Windows
-- Database Systems: MS SQL, MongoDB
-- Testing Skills: MS Test, xUnit, Moq, Jasmine, Karma
+---
 
-## 🌱 I'm currently learning:
-- Continuous integration and deployment practices
-- Docker and containerization
-- Advanced front-end frameworks and libraries
+## 👯 Let's Collaborate
 
-Feel free to explore my repositories and reach out to me for any collaborations or inquiries. Let's build something amazing together! 😄
+I'm excited to contribute to projects in areas like:
+- Open-source development
+- Intelligent apps with multi-agent AI
+- Cloud-native systems on Azure
+- Scalable full-stack platforms using .NET, Angular/React
 
+If you’re working on something impactful, drop me a message — let’s build together!
+
+---
+
+## 📚 I'm Currently Exploring
+- Multi-agent orchestration with Semantic Kernel & AutoGen
+- Docker and containerized deployments
+- CI/CD automation and observability with Azure DevOps & .NET Aspire
+
+---
+
+## 📫 How to Reach Me
+
+📧 Email: [kkdubey1989@gmail.com](mailto:kkdubey1989@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/komaldube](https://linkedin.com/in/komaldube)
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks:**  
+.NET Core, ASP.NET, C#, Angular, React.js, TypeScript, JavaScript, HTML, CSS, Bootstrap
+
+**Cloud & DevOps:**  
+Azure App Services, Functions, Storage, Event Hub, Service Bus, Key Vault, Azure OpenAI
+
+**Databases:**  
+SQL Server, MongoDB
+
+**Testing Tools:**  
+xUnit, Moq, Jasmine, Karma
+
+**AI & Orchestration:**  
+ChatGPT API, Azure OpenAI, AI Foundry, Semantic Kernel
+
+---
+
+## 🏆 Certifications
+
+- 🧠 Microsoft Certified: Azure AI Engineer Associate (Valid till Mar 2026)  
+- ☁️ Microsoft Certified: Azure Developer Associate (Valid till Apr 2026)  
+- 🌐 Microsoft Certified: Azure Fundamentals
+
+---
+
+Thanks for visiting! ⭐ Feel free to explore my repos and connect for collaboration.
