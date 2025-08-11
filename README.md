@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Komal Dube
 
-I’m a seasoned Full-Stack Developer with 11+ years of experience building scalable, cloud-native applications and intelligent systems. My expertise lies in bridging business goals with robust, maintainable code — with a passion for delivering clean, performant solutions across the stack.
+I’m a seasoned Full-Stack Developer with 12+ years of experience building scalable, cloud-native applications and intelligent systems. My expertise lies in bridging business goals with robust, maintainable code — with a passion for delivering clean, performant solutions across the stack.
 
 ---
 
